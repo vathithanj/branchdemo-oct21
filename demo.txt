@@ -1,2 +1,4 @@
 my first file on demo branch
 second line on main branch
+added 2nd line on demo.txt
+added 3rd line on demo.txt
